@@ -164,16 +164,5 @@ git push -u origin main
 
 本项目采用 **MIT 许可证** 授权。
 
-```
-
----
-
-### 💡 后续交付建议：
-1. **截图上传**：请在 `README.md` 的 `## 📸 运行截图` 章节中，将占位符替换为你本地运行成功后的浏览器全屏截图路径（例如 `./public/screenshot.png`）。
-2. **文档同步**：完成编辑后，请在终端执行以下操作将文档同步到 GitHub：
-   ```powershell
-   git add README.md
-   git commit -m "docs: finalize comprehensive README with troubleshooting logs"
-   git push
 
 
