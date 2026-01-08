@@ -94,6 +94,8 @@ pnpm preview
 
 ```
 
+<img width="2559" height="1522" alt="c2719a556059c938ed20a48e207e0d98" src="https://github.com/user-attachments/assets/e4930cb6-1d58-44f7-902e-6ed52867509c" />
+
 ---
 
 ## 🛠 核心技术挑战与解决方案 (Troubleshooting)
